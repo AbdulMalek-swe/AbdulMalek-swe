@@ -1,6 +1,6 @@
 
 <div>
-<h1 >📫 How to reach me: abdmaleksar01a@gmail.com </h1>
+<h1 >📫 How to reach me: abdulmalek.swe.585@gmail.com </h1>
 </ul>
 <div  align="center">
 <span><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMalek-swe"  alt="GitHub streak stats">  </span>
